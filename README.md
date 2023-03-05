@@ -1,4 +1,4 @@
-# P2
+# SmartHome
 
-## Screenshots
-<p> <img src="s1.png" width="400"/></p>
+## Projet de SmartHome with "drag and Drop" et BD MySQl
+
